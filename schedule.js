@@ -7,7 +7,7 @@ router.get('/schedules', async (req, res)=> {
         let schedules = null
         const data = await fetch(url)
         schedules = await data.json()
-	res.send(schedules)
+	res.json(schedules)
 })
 
 module.exports = router

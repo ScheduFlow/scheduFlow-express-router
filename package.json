@@ -1,6 +1,6 @@
 {
   "name": "scheduflow-express-router-npm",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "scheduflow-express-routers",
   "main": "schedule.js",
   "scripts": {
